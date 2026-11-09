@@ -1,0 +1,6 @@
+id,weight,distance,priority,cost
+3,5,100, HIGH ,50
+1,5,100,high,50
+2,10,200,normal,80
+4,2,50,high,20
+5,1,10,low,5
